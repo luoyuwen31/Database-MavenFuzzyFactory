@@ -1,7 +1,7 @@
 # Maven Fuzzy Factory Case Study (MySQL)
 
 ## 📚 Table of Contents
-[1. Traffic Sources Analysis] (#Traffic Sources Analysis)
+1. Traffic Sources Analysis
 2. Website Performance Analysis
 3. Channel Portfolio Management
 4. Business Patterns and Seasonality
@@ -11,7 +11,7 @@
 ## Entity Relationship Diagram
 ![image](https://github.com/luoyuwen31/MavenFuzzyFactorySQL/blob/main/Maven_Schema.png)
 
-## Traffic Sources Analysis
+## 1.Traffic Sources Analysis
 **Tables Used: website_sessions, orders**
 - Find the Top Traffic Sources
 - Traffic Source Conversion Rates
