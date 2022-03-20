@@ -1,7 +1,7 @@
 # Maven Fuzzy Factory Case Study (MySQL)
 
 ## 📚 Table of Contents
-1. Traffic Sources Analysis
+[1. Traffic Sources Analysis] (#1. Traffic Sources Analysis)
 2. Website Performance Analysis
 3. Channel Portfolio Management
 4. Business Patterns and Seasonality
