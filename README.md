@@ -12,7 +12,7 @@
 ![image](https://github.com/luoyuwen31/MavenFuzzyFactorySQL/blob/main/Maven_Schema.png)
 
 ## 1. Traffic Sources Analysis
-**Tables Used: website_sessions, orders
+**Tables Used: website_sessions, orders**
 - Find the Top Traffic Sources
 - Traffic Source Conversion Rates
 - Traffic Source Trending
